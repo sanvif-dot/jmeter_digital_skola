@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1744729092880,537,Get User API,200,OK,Tugas_Digital_Skola 1-1,text,true,,2445,314,1,1,https://reqres.in/api/users/2,266,0,102
+1744729092880,266,Get User API-0,301,Moved Permanently,Tugas_Digital_Skola 1-1,text,true,,991,157,1,1,http://reqres.in/api/users/2,266,0,102
+1744729093146,271,Get User API-1,200,OK,Tugas_Digital_Skola 1-1,text,true,,1454,157,1,1,https://reqres.in/api/users/2,271,0,192
